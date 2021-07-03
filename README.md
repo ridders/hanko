@@ -1,2 +1,4 @@
-# hanko
-Watermark Tool for Evidential Photography
+# Hanko
+## Watermark Tool for Evidential Photography
+
+Refer to Releases for the MSI installer. 
